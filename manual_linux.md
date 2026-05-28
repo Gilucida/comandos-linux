@@ -13,6 +13,8 @@ ls - Listar arquivos do diretório 📋
 
 cd - Mudar de diretório 📂
 
+cd ~ voltar para a pasta home
+
 ls -l - Mostrar detalhes (dono, grupo, tamanho) 📊
 
 📊 Tabela de Tamanhos de Arquivos
