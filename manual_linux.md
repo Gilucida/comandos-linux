@@ -11,6 +11,8 @@ ls -a - Mostrar arquivos ocultos 🕵️
 
 ls - Listar arquivos do diretório 📋
 
+cd + diretório/ (entrar no diretório)
+
 cd - Mudar de diretório 📂
 
 cd ~ voltar para a pasta home
